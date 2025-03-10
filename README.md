@@ -1,8 +1,8 @@
 Meu nome é isabeli, sou aluna da terceira fase do curso técnico de Informática : )
 <br>
 ## Meus Contatos
-<b>telefone: </b>(48) 99937-3941<br>
-<b>email: </b>isabelisantos0616@gmail.com
+<b>Telefone: </b>(48) 99937-3941<br>
+<b>Email: </b>isabelisantos0616@gmail.com
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelimachado&layout=compact&theme=dracula)
 
