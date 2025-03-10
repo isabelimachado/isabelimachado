@@ -11,5 +11,10 @@ Isabelisantos0616@gmail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50">
-<img src="(https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)" alt="MySQL" width="50" height="50">
-<img src="(https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)"alt="MySQL" width="50" height="50">
+
+
+
+(https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
