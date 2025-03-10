@@ -6,7 +6,7 @@ Isabelisantos0616@gmail.com
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelimachado&layout=compact&theme=dracula)
 
-## Tecnologias que eu uso:
+## Tecnologias que eu uso/estou aprendendo:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
