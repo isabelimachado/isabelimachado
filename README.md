@@ -8,9 +8,9 @@ Isabelisantos0616@gmail.com
 
 ## Tecnologias que eu uso/estou aprendendo:
 
-### ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-### ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-### ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-### ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-### ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg)
+### ![Java](https://upload.wikimedia.org/wikipedia/commons/1/1b/Java_logo_and_wordmark.svg)
+### ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+### ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+### ![MySQL](https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_logo.svg)
 
