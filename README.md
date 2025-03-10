@@ -1,4 +1,4 @@
-Meu nome é isabeli, Sou aluna da terceira fase do curso de Informática : )
+Meu nome é isabeli, sou aluna da terceira fase do curso de Informática : )
 <br>
 ## Meus Contatos
 (48) 9993739-41<br>
