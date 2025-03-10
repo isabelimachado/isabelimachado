@@ -1,4 +1,4 @@
-Olá, meu nome é isabeli, sou aluna da 3 fase do curso de informática! :)
+Olá, meu nome é isabeli :)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelimachado&layout=compact&theme=dracula)
 <!--
 **isabelimachado/isabelimachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
