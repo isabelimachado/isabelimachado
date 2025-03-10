@@ -8,9 +8,9 @@ Isabelisantos0616@gmail.com
 
 ## Tecnologias que eu uso/estou aprendendo:
 
-### ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg)
-### ![Java](https://upload.wikimedia.org/wikipedia/commons/1/1b/Java_logo_and_wordmark.svg)
-### ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-### ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-### ![MySQL](https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_logo.svg)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50">
+### <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Java_logo_and_wordmark.svg" alt="Java" width="50" height="50">
+### <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="50" height="50">
+### <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
+### <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_logo.svg" alt="MySQL" width="50" height="50">
 
