@@ -14,6 +14,6 @@ Meu nome é isabeli, sou aluna da terceira fase do curso técnico de Informátic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Native" width="80" height="80" style="margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin: 10px;">
 
 </p>
