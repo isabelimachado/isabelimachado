@@ -14,5 +14,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80" style="margin: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Native" width="80" height="80" style="margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin: 10px;">
-
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdFVqj5XdmhlRyixJj0k2a5-Pw22X-No4kw&s" alt="Progress" width="80" height="80" style="margin: 10px;">
 </p>
