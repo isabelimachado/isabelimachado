@@ -5,14 +5,17 @@
 
 
 
-## Linguagens que eu uso/estou aprendendo:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="80" height="80" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80" style="margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="80" height="80" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="80" height="80" style="margin: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React Native" width="80" height="80" style="margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin: 10px;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdFVqj5XdmhlRyixJj0k2a5-Pw22X-No4kw&s" alt="Progress" width="80" height="80" style="margin: 10px;">
-</p>
+## Ferramentas / linguagens que já utilizei:
+<div style="display: flex; align-items: center; gap: 10px; justify-content: center;">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,jquery,arduino,py,cpp,react,mysql,firebase,figma" />
+  </a>
+<img src="https://zvg.gallerycdn.vsassets.io/extensions/zvg/vscode-oeabl/0.2.3/1500993160425/Microsoft.VisualStudio.Services.Icons.Default"
+     width="45"
+     height="45"
+     style="
+       border-radius: 8px;
+       object-fit: cover;
+     ">
+</div>
